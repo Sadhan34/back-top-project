@@ -1,1 +1,1 @@
-Simple Example of Back to top of a webpage.
+Simple Example of Back to top of an webpage.
